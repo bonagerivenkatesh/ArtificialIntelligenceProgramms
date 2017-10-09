@@ -1,0 +1,1 @@
+The programme solves the nxn sized mislaced puzzle using the A* algorithm. The programme is written in java. Each tile in the puzzle should be represented a digit and white space of the puzzle should be represented by the digit 0. The program can solve the puzzle by both misplaced tiles heuristics and manhattan distance as the heuristics.
